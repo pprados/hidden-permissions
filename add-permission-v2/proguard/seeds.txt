@@ -1,0 +1,16 @@
+fr.prados.add.permission.OptionalPrivilegedActivity
+fr.prados.add.permission.OptionalPrivilegedActivity: OptionalPrivilegedActivity()
+fr.prados.add.permission.OptionalPrivilegedActivity: void sendSms(android.view.View)
+fr.prados.add.permission.OptionalPrivilegedActivity: void addPrivilege(android.view.View)
+fr.prados.add.permission.R$drawable: int ic_launcher
+fr.prados.add.permission.R$id: int addPriv
+fr.prados.add.permission.R$id: int phoneNumber
+fr.prados.add.permission.R$id: int sendSms
+fr.prados.add.permission.R$id: int status
+fr.prados.add.permission.R$layout: int main
+fr.prados.add.permission.R$string: int add_priv
+fr.prados.add.permission.R$string: int app_name
+fr.prados.add.permission.R$string: int no_permission
+fr.prados.add.permission.R$string: int phone_number
+fr.prados.add.permission.R$string: int send_sms
+fr.prados.add.permission.R$string: int with_permission

@@ -1,0 +1,1 @@
+Demonstrate it's possible to add dynamically a new permission at the current application.

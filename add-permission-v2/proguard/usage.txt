@@ -1,0 +1,11 @@
+android.annotation.SuppressLint
+android.annotation.TargetApi
+fr.prados.add.permission.BuildConfig
+fr.prados.add.permission.OptionalPrivilegedActivity:
+    private static final java.lang.String TAG
+fr.prados.add.permission.R
+fr.prados.add.permission.R$attr
+fr.prados.add.permission.R$drawable
+fr.prados.add.permission.R$id
+fr.prados.add.permission.R$layout
+fr.prados.add.permission.R$string

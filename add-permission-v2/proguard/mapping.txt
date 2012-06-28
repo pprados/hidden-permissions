@@ -1,0 +1,12 @@
+fr.prados.add.permission.OptionalPrivilegedActivity -> fr.prados.add.permission.OptionalPrivilegedActivity:
+    android.widget.EditText mPhoneNumber -> b
+    android.widget.Button mSendSms -> c
+    android.widget.Button mAddPriv -> d
+    android.widget.TextView mStatus -> e
+    boolean $assertionsDisabled -> a
+    void onCreate(android.os.Bundle) -> onCreate
+    void onResume() -> onResume
+    void sendSms(android.view.View) -> sendSms
+    void addPrivilege(android.view.View) -> addPrivilege
+    android.content.Intent getInstallIntent(java.lang.String) -> a
+    android.net.Uri copyAssets(java.lang.String) -> b

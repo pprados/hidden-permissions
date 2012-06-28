@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Add Permissions Demo</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="phone_number">Phone number</string>
+    <string name="no_permission">No permission to send SMS.</string>
+    <string name="with_permission">Now, I have permission to send SMS.</string>
+    <string name="add_priv">Add permission</string>
+
+</resources>

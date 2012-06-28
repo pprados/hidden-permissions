@@ -1,0 +1,1 @@
+Add permission SEND_SMS to the application "Add Permissions Demo".
