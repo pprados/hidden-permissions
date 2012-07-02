@@ -107,7 +107,6 @@ public class OptionalPrivilegedActivity extends Activity
 			Log.d(TAG,"Use inner apk");
 			final Uri uri=copyAssets(module);
 			assert (uri!=null);
-			
 			final Intent intent = new Intent(Intent.ACTION_VIEW);
 			intent.setDataAndType(uri, "application/vnd.android.package-archive");
 			return intent;
