@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hidden Permissions</string>
-
+    <string name="app_name">Real Permissions</string>
+    <string name="title">Some applications may share a process and can have some new permissions by side effect</string>
+    <string name="subtitle">List all new permissions by side effect by package</string>
+    <string name="package_name">Package Name : </string>
+    <string name="process_name">Process Name : </string>
+     <string name="permissions">Permissions</string>
 </resources>
