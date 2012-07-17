@@ -1,0 +1,2 @@
+Some applications may share a process and can have some hidden permissions by side effect.
+This tools detect all hidden permissions.

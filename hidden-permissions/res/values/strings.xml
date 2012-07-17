@@ -5,5 +5,9 @@
     <string name="subtitle">List all new permissions by side effect by package</string>
     <string name="package_name">Package Name : </string>
     <string name="process_name">Process Name : </string>
-     <string name="permissions">Permissions</string>
+    <string name="permissions">Permissions</string>
+    <string name="android">Remove Android apps</string>
+    <string name="android_checked">\u2714 Remove Android apps</string>
+    <string name="google">Remove Google apps</string>
+    <string name="google_checked">\u2714 Remove Google apps</string>
 </resources>

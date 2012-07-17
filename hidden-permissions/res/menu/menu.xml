@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/android"
+        android:checkable="false"
+        android:checked="true"
+        android:title="@string/android"
+        android:visible="true"/>
+    <item
+        android:id="@+id/google"
+        android:checkable="false"
+        android:checked="true"
+        android:title="@string/google"
+        android:visible="true"/>
+</menu>
